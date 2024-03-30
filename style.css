@@ -1,0 +1,44 @@
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: #bbb811;
+    color: white;
+}
+
+.gallery{
+    background-color: #d5c814;
+}
+
+p img {
+    padding: 10px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+footer {
+    background-color: #d5c814;
+    padding: 10px;
+}
+
+footer img {
+    width: 60px;
+}
+.y{
+    background-color: #850ba3;
+}
+w.{
+ background-color:#cfac0d;
+}
+a{
+   text-decoration: none; 
+   border:solid 5px  #cfac0d;
+   color: #bbb811;
+   padding: 10px ;
+
+}
